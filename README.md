@@ -1,5 +1,5 @@
 # Simulation scheme
-We implement the simulation scheme of (Bayer and Breneis, 2022) for the rough Bergomi model of the form
+We implement the simulation scheme of (Bayer and Breneis, 2023) for the rough Bergomi model of the form
 
 ![Screenshot (552) (3)](https://github.com/user-attachments/assets/821c1798-ae1f-41d4-85dd-6e08476a9806)
 
